@@ -1,0 +1,11 @@
+egit :
+이클립스용 git 연동 플러그인
+help - install new software 에서 설치
+http://itmir.tistory.com/461
+에서 설치까지만 따라할 것
+
+브랜치 :
+가지치듯 변경내용을 관리할 수 있는 기능
+개발 기본 브랜치는 develop
+기본 브랜치는 master 임
+
